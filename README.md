@@ -2,6 +2,8 @@
 
 ## Overview
 The **Student Project Allocation** platform is a web application developed using **Spring Boot** for the backend and **Angular** for the frontend. The system is designed to **automatically allocate projects to students** based on their preferences and academic performance (average score). This ensures a fair and efficient distribution of projects while prioritizing students with higher academic achievements.
+
+
 **Spring boot**: Java JDK 17
 
 **Angular**: CLI: 18.2.12Node: 22.11.0 Package Manager: npm 10.9.0
@@ -9,7 +11,23 @@ The **Student Project Allocation** platform is a web application developed using
 
 ## Features
 - **Student Project Availability**: Students can view the projects that are available to them, ensuring they do not exceed the maximum allowed projects.
+
+
+Students
+![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/13.png?raw=true)
+
+
+Student!` Projects
+![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/14.png?raw=true)
+
+
+Projects
+![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/14.png?raw=true)
+
+
+
 - **Automatic Project Assignment**: The system assigns projects to students based on their **average** and selected preferences.
+![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/1.png?raw=true)
 - **Data Persistence**: Uses **Spring Boot JPA** with **MySQL** to manage students, projects, and assignments.
 - **RESTful API**: Provides endpoints for retrieving available projects and performing project assignments.
 - **Angular Frontend**: A user-friendly interface for students and administrators to interact with the system.
