@@ -17,7 +17,7 @@ Students
 ![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/13.png?raw=true)
 
 
-Student!` Projects
+Students` Projects
 ![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/14.png?raw=true)
 
 
