@@ -27,7 +27,7 @@ Projects
 
 
 - **Automatic Project Assignment**: The system assigns projects to students based on their **average** and selected preferences.
-![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/1.png?raw=true)
+![Timetable Example](https://github.com/tayeblagha/public-Images/blob/main/15.png?raw=true)
 - **Data Persistence**: Uses **Spring Boot JPA** with **MySQL** to manage students, projects, and assignments.
 - **RESTful API**: Provides endpoints for retrieving available projects and performing project assignments.
 - **Angular Frontend**: A user-friendly interface for students and administrators to interact with the system.
